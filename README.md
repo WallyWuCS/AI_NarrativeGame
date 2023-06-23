@@ -20,3 +20,4 @@ If you have an organization key, the auth.json should look like this
   "organization":"<YOUR_ORGANIZATION_ID>"
 }
 ```
+*Warning: Remember never share your API key with others or upload it to any platforms
