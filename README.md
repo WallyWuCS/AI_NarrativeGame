@@ -7,16 +7,16 @@ Add a file to the path ~/.openai/auth.json (Linux/Mac) or %USERPROFILE%/.openai/
 
 if you only have an API key, the auth.json should look like this
 
-``
+```
 {
   "api_key":"<YOUR_KEY>"
 }
-``
+```
 If you have an organization key, the auth.json should look like this
 
-``
+```
 {
   "api_key":"<YOUR_KEY>",
   "organization":"<YOUR_ORGANIZATION_ID>"
 }
-``
+```
